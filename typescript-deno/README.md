@@ -1,0 +1,3 @@
+```sh
+deno task start
+```
